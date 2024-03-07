@@ -26,7 +26,7 @@ We will keep adding Predicting movements of asset prices models to expand this r
 
 - [x] Historical covariance (HC) 
 - [x] The shrinkage method (SM) of Ledoit and Wolf (2004)
-- [x] The Gerber Statistic (GS) of Gerber, Markowitz Ernst, Miao Sargen (2021)
+- [x] The Gerber Statistic (GS) of Gerber, Markowitz, Ernst, Miao Sargen (2021)
 - [x] SimStock (SS) of Hwang et al (2023)
 
 ## Citation
