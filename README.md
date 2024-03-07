@@ -1,6 +1,6 @@
 # Portfolio optimization
 
-This is the origin Pytorch implementation of *Portfolio optimization*.
+This is the origin Pytorch implementation of *Data Driven Portfolio Optimization*.
 
 **News**(03, 08, 2024): Will be updated.
  
