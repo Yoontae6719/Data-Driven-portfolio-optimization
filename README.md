@@ -1,4 +1,4 @@
-# Portfolio optimization
+# Data Driven Portfolio optimization
 
 This is the origin Pytorch implementation of *Data Driven Portfolio Optimization*.
 
